@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/albertron/static/css/main.8a1a4f14.chunk.css",
-    "main.js": "/albertron/static/js/main.7f76a558.chunk.js",
-    "main.js.map": "/albertron/static/js/main.7f76a558.chunk.js.map",
+    "main.css": "/albertron/static/css/main.cbc32fd8.chunk.css",
+    "main.js": "/albertron/static/js/main.8eaf03a5.chunk.js",
+    "main.js.map": "/albertron/static/js/main.8eaf03a5.chunk.js.map",
     "runtime-main.js": "/albertron/static/js/runtime-main.bc1dd70f.js",
     "runtime-main.js.map": "/albertron/static/js/runtime-main.bc1dd70f.js.map",
     "static/js/2.e1697bf1.chunk.js": "/albertron/static/js/2.e1697bf1.chunk.js",
     "static/js/2.e1697bf1.chunk.js.map": "/albertron/static/js/2.e1697bf1.chunk.js.map",
     "index.html": "/albertron/index.html",
-    "precache-manifest.a83889de34e4a3c18e4eb50b375ac1a8.js": "/albertron/precache-manifest.a83889de34e4a3c18e4eb50b375ac1a8.js",
+    "precache-manifest.959d397cc9a67cd15f245c01afae4210.js": "/albertron/precache-manifest.959d397cc9a67cd15f245c01afae4210.js",
     "service-worker.js": "/albertron/service-worker.js",
-    "static/css/main.8a1a4f14.chunk.css.map": "/albertron/static/css/main.8a1a4f14.chunk.css.map",
+    "static/css/main.cbc32fd8.chunk.css.map": "/albertron/static/css/main.cbc32fd8.chunk.css.map",
     "static/js/2.e1697bf1.chunk.js.LICENSE.txt": "/albertron/static/js/2.e1697bf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bc1dd70f.js",
     "static/js/2.e1697bf1.chunk.js",
-    "static/css/main.8a1a4f14.chunk.css",
-    "static/js/main.7f76a558.chunk.js"
+    "static/css/main.cbc32fd8.chunk.css",
+    "static/js/main.8eaf03a5.chunk.js"
   ]
 }

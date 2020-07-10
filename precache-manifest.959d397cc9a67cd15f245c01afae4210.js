@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0aa2a09a8238e01dff0f4dcc7251338",
+    "revision": "429da805c9e0110d1429164a427e8ed2",
     "url": "/albertron/index.html"
   },
   {
-    "revision": "f82068de17fb5f74f126",
-    "url": "/albertron/static/css/main.8a1a4f14.chunk.css"
+    "revision": "19e64a6b6a1eed73d08f",
+    "url": "/albertron/static/css/main.cbc32fd8.chunk.css"
   },
   {
     "revision": "8ba30eb4eaee81f316e3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/albertron/static/js/2.e1697bf1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f82068de17fb5f74f126",
-    "url": "/albertron/static/js/main.7f76a558.chunk.js"
+    "revision": "19e64a6b6a1eed73d08f",
+    "url": "/albertron/static/js/main.8eaf03a5.chunk.js"
   },
   {
     "revision": "ee802883b3cd2e37b9d0",
